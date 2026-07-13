@@ -1,0 +1,11 @@
+{
+  "name": "shimzaservice-assets",
+  "version": "1.0.0",
+  "description": "Utility to convert generated SVGs to PNG for ShimzaService project",
+  "scripts": {
+    "convert": "node convert-images.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.0"
+  }
+}
